@@ -46,5 +46,5 @@ if __name__ == "__main__":
     res = bfs(adj)
 
     for node in res:
-        print("\n\n\n")
+        print("\n\n\nxo")
         print(node, end=" ")
